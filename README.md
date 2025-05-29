@@ -1,5 +1,5 @@
 ## 👋 Hi there
-<a href="mailto:jacejung.dev@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://jacejung-dev.github.io/"><img src="https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:jacejung.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://jacejung-dev.github.io/"><img src="https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### Aspiring AI service engineer and web developer 💻 with a passion for building intelligent systems using Python 🐍.
 
 🌱 I’m currently learning:
