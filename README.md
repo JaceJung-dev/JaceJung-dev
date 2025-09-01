@@ -30,7 +30,7 @@ Researcher | Conducted bioinformatics and omics data analysis to identify molecu
 
 | Project / Research | Period | Description |
 |--------------------|--------|-------------|
-|[AINFO](https://github.com/JaceJung-dev/AInfo-Backend)  | Mar 2025 – Apr 2025 | LLM-based chatbot for personalized public service recommendations. Built with Django/DRF and deployed prototype. |
+|[AINFO: Personalized Public Service Recommendation Chatbot](https://github.com/JaceJung-dev/AInfo-Backend)  | Mar 2025 – Apr 2025 | LLM-based chatbot for personalized public service recommendations. Built with Django/DRF and deployed prototype. |
 [H2O2-induced astrocytic collagen triggers neuronal death via fucosylation-dependent glial barrier formation upon ischemic stroke](https://www.biorxiv.org/content/10.1101/2025.05.01.651594v1) | Jan 2013 – Nov 2014 | Developed RNA-seq/ATAC-seq pipelines (Python/R/Shell), gene expression analysis with DESeq2/edgeR, and visualization with ggplot2. |
 
 
