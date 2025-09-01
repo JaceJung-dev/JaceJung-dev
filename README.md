@@ -10,19 +10,21 @@
 - Natural language processing (NLP)
 - AI system design and model architectures
 
+
 ## 🚀 Experience & Training
 
-> 🤖 **Naver Boostcamp, AI Tech 8th**
-> Sep 2025 – Present
-> Trainee | Intensive training program focused on AI model development, machine learning pipelines, and deployment of deep learning systems.
+> 🤖 **Naver Boostcamp, AI Tech 8th**  
+> Sep 2025 – Present  
+> Trainee | Intensive training program focused on AI model development, machine learning pipelines, and deployment of deep learning systems.  
 >
-> 🌱 **Sparta Coding Club, Tomorrow Learning Camp – AI Track 9th**
-> Nov 2024 – Mar 2025
-> Trainee | Trained in Python, ML/DL fundamentals, and web development with Django/DRF; completed a capstone project implementing an AI service using LLM APIs.
+> 🌱 **Sparta Coding Club, Tomorrow Learning Camp – AI Track 9th**  
+> Nov 2024 – Mar 2025  
+> Trainee | Trained in Python, ML/DL fundamentals, and web development with Django/DRF; completed a capstone project implementing an AI service using LLM APIs.  
 >
-> 🧪 **Institute for Basic Science (IBS)**
-Jan 2013 – Nov 2014
-Researcher | Conducted bioinformatics and omics data analysis to identify molecular mechanisms underlying neuronal cell death.
+> 🧪 **Institute for Basic Science (IBS)**  
+Jan 2013 – Nov 2014  
+Researcher | Conducted bioinformatics and omics data analysis to identify molecular mechanisms underlying neuronal cell death.  
+
 
 ## 📋 Projects & Research
 
@@ -30,6 +32,7 @@ Researcher | Conducted bioinformatics and omics data analysis to identify molecu
 |--------------------|--------|-------------|
 |[AINFO](https://github.com/JaceJung-dev/AInfo-Backend)  | Mar 2025 – Apr 2025 | LLM-based chatbot for personalized public service recommendations. Built with Django/DRF and deployed prototype. |
 [H2O2-induced astrocytic collagen triggers neuronal death via fucosylation-dependent glial barrier formation upon ischemic stroke](https://www.biorxiv.org/content/10.1101/2025.05.01.651594v1) | Jan 2013 – Nov 2014 | Developed RNA-seq/ATAC-seq pipelines (Python/R/Shell), gene expression analysis with DESeq2/edgeR, and visualization with ggplot2. |
+
 
 ## 💪 Skills
 
