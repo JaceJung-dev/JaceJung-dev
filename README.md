@@ -22,7 +22,7 @@
 > Trainee | Trained in Python, ML/DL fundamentals, and web development with Django/DRF; completed a capstone project implementing an AI service using LLM APIs.  
 >
 > 🧪 **Institute for Basic Science (IBS)**  
-Jan 2013 – Nov 2014  
+Jan 2023 – Nov 2024  
 Researcher | Conducted bioinformatics and omics data analysis to identify molecular mechanisms underlying neuronal cell death.  
 
 
