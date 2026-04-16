@@ -23,20 +23,15 @@
 > 🌱 **Sparta Coding Club, Tomorrow Learning Camp – AI Track 9th**  
 > Nov 2024 – Mar 2025  
 > Trainee | Trained in Python, ML/DL fundamentals, and web development with Django/DRF; completed a capstone project implementing an AI service using LLM APIs.
->
-> 🧪 **Institute for Basic Science (IBS)**  
-> Jan 2023 – Nov 2024  
-> Researcher | Conducted bioinformatics and omics data analysis to identify molecular mechanisms underlying neuronal cell death.
 
 ## 📋 Projects & Research
 
-| Project / Research                                                                                                                                                                              | Period              | Description                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [FanMate: AI Chatbot for KBO Team Recommendation and Fan Engagement](https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-16)                                                           | Jan 2026 – Feb 2026 | An AI chatbot service that helps new KBO fans discover the right team and feel connected through personalized conversations.                             |
-| [CSAT-Solver: CSAT-Style Question Solving Model](https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-16)                                                                           | Dec 2025 – Jan 2026 | A project that explores how small and medium-sized LLMs can solve CSAT-style questions without relying on large-scale models.                            |
-| [ODQA: Open-Domain Question Answering System](https://github.com/boostcampaitech8/pro-nlp-mrc-nlp-16)                                                                                           | Nov 2025 – Nov 2025 | A project focused on building an open-domain question answering system that retrieves relevant documents and extracts accurate answers.                   |
-| [AINFO: Personalized Public Service Recommendation Chatbot](https://github.com/JaceJung-dev/AInfo-Backend)                                                                                      | Mar 2025 – Apr 2025 | LLM-based chatbot for personalized public service recommendations. Built with Django/DRF and deployed prototype.                                        |
-| [H2O2-induced astrocytic collagen triggers neuronal death via fucosylation-dependent glial barrier formation upon ischemic stroke](https://www.biorxiv.org/content/10.1101/2025.05.01.651594v1) | Jan 2013 – Nov 2014 | Performed RNA-seq/ATAC-seq data analysis using Python, R, and Linux, covering gene expression analysis with DESeq2/edgeR and visualization with ggplot2 |
+| Project / Research                                                                                                                    | Period              | Description                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [FanMate: AI Chatbot for KBO Team Recommendation and Fan Engagement](https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-16) | Jan 2026 – Feb 2026 | An AI chatbot service that helps new KBO fans discover the right team and feel connected through personalized conversations.            |
+| [CSAT-Solver: CSAT-Style Question Solving Model](https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-16)                 | Dec 2025 – Jan 2026 | A project that explores how small and medium-sized LLMs can solve CSAT-style questions without relying on large-scale models.           |
+| [ODQA: Open-Domain Question Answering System](https://github.com/boostcampaitech8/pro-nlp-mrc-nlp-16)                                 | Nov 2025 – Nov 2025 | A project focused on building an open-domain question answering system that retrieves relevant documents and extracts accurate answers. |
+| [AINFO: Personalized Public Service Recommendation Chatbot](https://github.com/JaceJung-dev/AInfo-Backend)                            | Mar 2025 – Apr 2025 | LLM-based chatbot for personalized public service recommendations. Built with Django/DRF and deployed prototype.                        |
 
 <!--
 **JaceJung-dev/JaceJung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
